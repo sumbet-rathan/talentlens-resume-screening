@@ -1,4 +1,4 @@
-# 🎯 TalentLens: Explainable Resume Screening with Hybrid RAG
+# 🎯 TalentLens: Explainable Resume Screening with RAG
 
 Rank resumes against a job description with a transparent 0–100 ATS score, or chat with your resumes and get answers with sources.
 
